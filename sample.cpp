@@ -15,6 +15,6 @@ int main()
     base b;
     derived d;
 
-    
+    cout<<"Hello "<<endl;
     return 0;
 }
